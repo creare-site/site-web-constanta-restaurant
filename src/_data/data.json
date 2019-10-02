@@ -1,0 +1,23 @@
+{
+    "copy"           : "WebsiteMarket", 
+    "email"          : "hello@websitemarket.ro",
+    "design"         : "Ethereal by Html5 UP",
+
+    "app_title"      : "Site Restaurant Constanta",
+
+    "seo_title"      : "Site Restaurant Constanta - Site Prezentare | WebsiteMarket ",
+    "seo_desc"       : "Site de prezentare pentru restaurante si cafenele din Constanta, un produs open-source WebsiteMarket..",
+
+    "product"        : "https://websitemarket.ro", 
+    "github"         : "https://github.com/creare-site/site-web-constanta-restaurant",
+    "github_group"   : "https://github.com/creare-site",
+
+    "blog"           : "https://blog.websitemarket.ro/",
+    "facebook"       : "https://www.facebook.com/Websitemarketro/",
+    "twitter"        : "https://twitter.com/websitemarketro/",
+    "instagram"      : "https://websitemarket.ro",
+    "support"        : "https://websitemarket.ro",
+    "discord"        : "https://discord.gg/MFRQmAk",
+
+    "LAST_KEY" : "NA"
+}
